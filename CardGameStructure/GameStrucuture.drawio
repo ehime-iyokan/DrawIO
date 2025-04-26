@@ -13,7 +13,7 @@
         <mxCell id="Czp6lD5ZuoxzQtUtrd-K-21" value="&lt;div&gt;CardsBase&lt;/div&gt;&lt;div&gt;カードリストごとに必要な処理を定義しており、それを継承させてる。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="414" y="735" width="260" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="Czp6lD5ZuoxzQtUtrd-K-23" value="ICards(インターフェース)&lt;br&gt;&lt;div&gt;必要な処理が定義されていることを保証する。&lt;/div&gt;&lt;div&gt;&lt;div&gt;DrawPile 等でそれぞれ実装しているが、CardsBase で処理は定義されているため、CardBase を継承していれば問題ない。&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="Czp6lD5ZuoxzQtUtrd-K-23" value="ICards(インターフェース)&lt;br&gt;&lt;div&gt;必要な処理が定義されていることを保証している。&lt;/div&gt;&lt;div&gt;&lt;div&gt;CardsBaseで処理は定義されているため、基本的にCardBaseを継承していれば問題ない。&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="414" y="850" width="260" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Czp6lD5ZuoxzQtUtrd-K-37" value="BattleManager ：未実装！" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
