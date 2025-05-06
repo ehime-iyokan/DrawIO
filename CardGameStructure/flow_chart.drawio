@@ -36,10 +36,10 @@
         <mxCell id="TG3GYIjPsMoHIRxMnIuH-3" value="山札生成" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="280" y="130" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TG3GYIjPsMoHIRxMnIuH-4" value="&lt;div&gt;①ドロー&lt;/div&gt;&lt;div&gt;山札からランダムに3枚になる&lt;/div&gt;&lt;div&gt;まで引いて手札に含める&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="TG3GYIjPsMoHIRxMnIuH-4" value="&lt;div&gt;①ドロー&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;color: rgb(255, 153, 51);&quot;&gt;山札&lt;/span&gt;&lt;/b&gt;からランダムに3枚になる&lt;/div&gt;&lt;div&gt;まで引いて&lt;b&gt;&lt;span style=&quot;color: rgb(0, 127, 255);&quot;&gt;手札&lt;/span&gt;&lt;/b&gt;に含める&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="280" y="280" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TG3GYIjPsMoHIRxMnIuH-5" value="&lt;div&gt;②プレイ&lt;/div&gt;&lt;div&gt;手札から1枚選択して場に出す&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="TG3GYIjPsMoHIRxMnIuH-5" value="&lt;div&gt;②プレイ&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;color: rgb(0, 127, 255);&quot;&gt;手札&lt;/span&gt;&lt;/b&gt;から1枚選択して場に出す&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="280" y="400" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TG3GYIjPsMoHIRxMnIuH-7" value="&lt;div&gt;③プレイヤーの行動&lt;/div&gt;&lt;div&gt;選んだカードの行動を&lt;/div&gt;&lt;div&gt;実行する&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -110,13 +110,13 @@
         <mxCell id="TG3GYIjPsMoHIRxMnIuH-35" value="&lt;div&gt;⑧評価処理&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="500" y="1200" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TG3GYIjPsMoHIRxMnIuH-40" value="⑥トラッシュ&lt;div&gt;手札に残ったカードを全て&lt;/div&gt;&lt;div&gt;捨て札に送る&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="TG3GYIjPsMoHIRxMnIuH-40" value="⑥トラッシュ&lt;div&gt;&lt;b&gt;&lt;span style=&quot;color: rgb(0, 127, 255);&quot;&gt;手札&lt;/span&gt;&lt;/b&gt;に残ったカードを全て&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;color: rgb(153, 51, 255);&quot;&gt;捨て札&lt;/span&gt;&lt;/b&gt;に送る&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="790" y="660" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TG3GYIjPsMoHIRxMnIuH-41" value="⑦山札リセット&lt;div&gt;山札のカードを全て手札に送り、&lt;/div&gt;&lt;div&gt;捨て札を全て山札に送る&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="TG3GYIjPsMoHIRxMnIuH-41" value="⑦山札リセット&lt;div&gt;&lt;b&gt;&lt;span style=&quot;color: rgb(255, 153, 51);&quot;&gt;山札&lt;/span&gt;&lt;/b&gt;のカードを全て&lt;b&gt;&lt;span style=&quot;color: rgb(0, 127, 255);&quot;&gt;手札&lt;/span&gt;&lt;/b&gt;に送り、&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;color: rgb(153, 51, 255);&quot;&gt;捨て札&lt;/span&gt;&lt;/b&gt;を全て&lt;b&gt;&lt;span style=&quot;color: rgb(255, 153, 51);&quot;&gt;山札&lt;/span&gt;&lt;/b&gt;に送る&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="790" y="930" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TG3GYIjPsMoHIRxMnIuH-53" value="山札が3枚より少ないか？" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="TG3GYIjPsMoHIRxMnIuH-53" value="&lt;b&gt;&lt;span style=&quot;color: rgb(255, 153, 51);&quot;&gt;山札&lt;/span&gt;&lt;/b&gt;が3枚より少ないか？" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="790" y="790" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="TG3GYIjPsMoHIRxMnIuH-54" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
