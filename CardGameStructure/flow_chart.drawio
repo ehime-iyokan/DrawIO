@@ -48,7 +48,7 @@
         <mxCell id="TG3GYIjPsMoHIRxMnIuH-8" value="④ターン消費&lt;div&gt;「残りターン」を1減らす&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="280" y="810" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TG3GYIjPsMoHIRxMnIuH-9" value="パスを選択していないか？" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="TG3GYIjPsMoHIRxMnIuH-9" value="&lt;div&gt;パスを選択していないか？&lt;/div&gt;&lt;div&gt;パス：予算不足 or HP不足&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="280" y="520" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="TG3GYIjPsMoHIRxMnIuH-10" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TG3GYIjPsMoHIRxMnIuH-3" edge="1">
@@ -175,8 +175,8 @@
         <mxCell id="TG3GYIjPsMoHIRxMnIuH-65" value="⑤敵の行動&lt;div&gt;敵事の行動を&lt;/div&gt;&lt;div&gt;実行する&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="790" y="540" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="42xgOx6s-QyIvUgZpXYZ-2" value="&lt;div&gt;アイスが&lt;/div&gt;&lt;div&gt;指定数に達しているか？&lt;/div&gt;&lt;div&gt;&amp;nbsp;or&lt;/div&gt;&lt;div&gt;予算を&lt;/div&gt;&lt;div&gt;オーバーしているか？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="940" width="240" height="130" as="geometry" />
+        <mxCell id="42xgOx6s-QyIvUgZpXYZ-2" value="&lt;div&gt;アイスが指定数に&lt;/div&gt;&lt;div&gt;達しているか？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="940" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="42xgOx6s-QyIvUgZpXYZ-4" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TG3GYIjPsMoHIRxMnIuH-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -184,7 +184,7 @@
             <mxPoint x="380" y="940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="42xgOx6s-QyIvUgZpXYZ-6" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="42xgOx6s-QyIvUgZpXYZ-13" target="TG3GYIjPsMoHIRxMnIuH-35">
+        <mxCell id="42xgOx6s-QyIvUgZpXYZ-6" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="TG3GYIjPsMoHIRxMnIuH-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="1040" as="sourcePoint" />
             <mxPoint x="600" y="1180" as="targetPoint" />
@@ -224,7 +224,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="42xgOx6s-QyIvUgZpXYZ-13" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="1070" width="60" height="30" as="geometry" />
+          <mxGeometry x="320" y="1040" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="42xgOx6s-QyIvUgZpXYZ-14" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="960" width="60" height="30" as="geometry" />
