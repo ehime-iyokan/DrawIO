@@ -172,7 +172,7 @@
         <mxCell id="TG3GYIjPsMoHIRxMnIuH-62" value="スタート" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="310" y="28" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TG3GYIjPsMoHIRxMnIuH-65" value="⑤敵の行動&lt;div&gt;敵事の行動を&lt;/div&gt;&lt;div&gt;実行する&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="TG3GYIjPsMoHIRxMnIuH-65" value="⑤敵の行動&lt;div&gt;各敵に設定された行動を&lt;/div&gt;&lt;div&gt;実行する&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="790" y="540" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="42xgOx6s-QyIvUgZpXYZ-2" value="&lt;div&gt;アイスが指定数に&lt;/div&gt;&lt;div&gt;達しているか？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
