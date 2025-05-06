@@ -107,7 +107,7 @@
         <mxCell id="TG3GYIjPsMoHIRxMnIuH-28" value="&lt;div&gt;「残りターン」が 0 か？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="660" y="400" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="TG3GYIjPsMoHIRxMnIuH-35" value="評価処理" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="TG3GYIjPsMoHIRxMnIuH-35" value="&lt;div&gt;⑧評価処理&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="660" y="540" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TG3GYIjPsMoHIRxMnIuH-40" value="⑥トラッシュ&lt;div&gt;手札に残ったカードを全て&lt;/div&gt;&lt;div&gt;捨て札に送る&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
