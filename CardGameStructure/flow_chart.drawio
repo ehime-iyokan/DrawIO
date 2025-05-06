@@ -111,16 +111,16 @@
           <mxGeometry x="500" y="1200" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TG3GYIjPsMoHIRxMnIuH-40" value="⑥トラッシュ&lt;div&gt;&lt;b&gt;&lt;span style=&quot;color: rgb(0, 127, 255);&quot;&gt;手札&lt;/span&gt;&lt;/b&gt;に残ったカードを全て&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;color: rgb(153, 51, 255);&quot;&gt;捨て札&lt;/span&gt;&lt;/b&gt;に送る&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="790" y="660" width="200" height="80" as="geometry" />
+          <mxGeometry x="790" y="670" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TG3GYIjPsMoHIRxMnIuH-41" value="⑦山札リセット&lt;div&gt;&lt;b&gt;&lt;span style=&quot;color: rgb(255, 153, 51);&quot;&gt;山札&lt;/span&gt;&lt;/b&gt;のカードを全て&lt;b&gt;&lt;span style=&quot;color: rgb(0, 127, 255);&quot;&gt;手札&lt;/span&gt;&lt;/b&gt;に送り、&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;color: rgb(153, 51, 255);&quot;&gt;捨て札&lt;/span&gt;&lt;/b&gt;を全て&lt;b&gt;&lt;span style=&quot;color: rgb(255, 153, 51);&quot;&gt;山札&lt;/span&gt;&lt;/b&gt;に送る&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="790" y="930" width="200" height="80" as="geometry" />
+          <mxGeometry x="790" y="935" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TG3GYIjPsMoHIRxMnIuH-53" value="&lt;b&gt;&lt;span style=&quot;color: rgb(255, 153, 51);&quot;&gt;山札&lt;/span&gt;&lt;/b&gt;が3枚より少ないか？" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="790" y="790" width="200" height="100" as="geometry" />
+          <mxGeometry x="790" y="800" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="TG3GYIjPsMoHIRxMnIuH-54" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="830" y="740" width="60" height="30" as="geometry" />
+          <mxGeometry x="830" y="900" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TG3GYIjPsMoHIRxMnIuH-55" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="990" y="810" width="60" height="30" as="geometry" />
@@ -142,7 +142,7 @@
             <mxPoint x="780" y="620" as="sourcePoint" />
             <mxPoint x="830" y="570" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1080" y="840" />
+              <mxPoint x="1080" y="850" />
               <mxPoint x="1080" y="240" />
               <mxPoint x="380" y="240" />
             </Array>
@@ -153,8 +153,8 @@
             <mxPoint x="780" y="620" as="sourcePoint" />
             <mxPoint x="830" y="570" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="890" y="1040" />
-              <mxPoint x="1080" y="1040" />
+              <mxPoint x="890" y="1050" />
+              <mxPoint x="1080" y="1050" />
               <mxPoint x="1080" y="240" />
               <mxPoint x="380" y="240" />
             </Array>
@@ -173,7 +173,7 @@
           <mxGeometry x="310" y="28" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TG3GYIjPsMoHIRxMnIuH-65" value="⑤敵の行動&lt;div&gt;各敵に設定された行動を&lt;/div&gt;&lt;div&gt;実行する&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="790" y="540" width="200" height="80" as="geometry" />
+          <mxGeometry x="790" y="550" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="42xgOx6s-QyIvUgZpXYZ-2" value="&lt;div&gt;アイスが指定数に&lt;/div&gt;&lt;div&gt;達しているか？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="940" width="200" height="100" as="geometry" />
