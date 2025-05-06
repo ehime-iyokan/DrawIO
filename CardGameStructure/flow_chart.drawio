@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="26.2.14">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1275" dy="1069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1259" dy="1069" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -33,9 +33,6 @@
             <mxPoint x="270" y="330" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TG3GYIjPsMoHIRxMnIuH-0" value="&lt;div&gt;スタート&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="10" width="200" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="TG3GYIjPsMoHIRxMnIuH-3" value="山札生成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="130" width="200" height="80" as="geometry" />
         </mxCell>
@@ -60,9 +57,9 @@
             <mxPoint x="380" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TG3GYIjPsMoHIRxMnIuH-13" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TG3GYIjPsMoHIRxMnIuH-0">
+        <mxCell id="TG3GYIjPsMoHIRxMnIuH-13" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TG3GYIjPsMoHIRxMnIuH-62">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="250" as="sourcePoint" />
+            <mxPoint x="380" y="90" as="sourcePoint" />
             <mxPoint x="380" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -201,6 +198,9 @@
             <mxPoint x="770" y="510" as="sourcePoint" />
             <mxPoint x="770" y="555" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TG3GYIjPsMoHIRxMnIuH-62" value="スタート" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="28" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
