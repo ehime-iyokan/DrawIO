@@ -86,8 +86,8 @@
             <mxPoint x="340" y="620" as="sourcePoint" />
             <mxPoint x="390" y="570" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="560" y="570" />
-              <mxPoint x="560" y="780" />
+              <mxPoint x="530" y="570" />
+              <mxPoint x="530" y="780" />
               <mxPoint x="380" y="780" />
             </Array>
           </mxGeometry>
@@ -105,16 +105,16 @@
           <mxGeometry x="320" y="620" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TG3GYIjPsMoHIRxMnIuH-28" value="&lt;div&gt;「残りターン」が 0 か？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="660" y="400" width="200" height="100" as="geometry" />
+          <mxGeometry x="590" y="400" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="TG3GYIjPsMoHIRxMnIuH-35" value="&lt;div&gt;⑧評価処理&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="660" y="540" width="200" height="80" as="geometry" />
+          <mxGeometry x="590" y="540" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TG3GYIjPsMoHIRxMnIuH-40" value="⑥トラッシュ&lt;div&gt;手札に残ったカードを全て&lt;/div&gt;&lt;div&gt;捨て札に送る&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="890" y="660" width="200" height="80" as="geometry" />
+          <mxGeometry x="820" y="660" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TG3GYIjPsMoHIRxMnIuH-41" value="⑦山札リセット&lt;div&gt;山札のカードを全て手札に送り、&lt;/div&gt;&lt;div&gt;捨て札を全て山札に送る&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="890" y="930" width="200" height="80" as="geometry" />
+          <mxGeometry x="820" y="930" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TG3GYIjPsMoHIRxMnIuH-43" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TG3GYIjPsMoHIRxMnIuH-8" target="TG3GYIjPsMoHIRxMnIuH-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -122,17 +122,17 @@
             <mxPoint x="620" y="460" as="targetPoint" />
             <Array as="points">
               <mxPoint x="380" y="920" />
-              <mxPoint x="610" y="920" />
-              <mxPoint x="610" y="360" />
-              <mxPoint x="760" y="360" />
+              <mxPoint x="560" y="920" />
+              <mxPoint x="560" y="360" />
+              <mxPoint x="690" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TG3GYIjPsMoHIRxMnIuH-49" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="700" y="500" width="60" height="30" as="geometry" />
+          <mxGeometry x="630" y="500" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TG3GYIjPsMoHIRxMnIuH-50" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="860" y="420" width="60" height="30" as="geometry" />
+          <mxGeometry x="790" y="420" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TG3GYIjPsMoHIRxMnIuH-51" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TG3GYIjPsMoHIRxMnIuH-28" target="TG3GYIjPsMoHIRxMnIuH-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -147,13 +147,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TG3GYIjPsMoHIRxMnIuH-53" value="山札が3枚より少ないか？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="890" y="790" width="200" height="100" as="geometry" />
+          <mxGeometry x="820" y="790" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="TG3GYIjPsMoHIRxMnIuH-54" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="930" y="740" width="60" height="30" as="geometry" />
+          <mxGeometry x="860" y="740" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TG3GYIjPsMoHIRxMnIuH-55" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1090" y="810" width="60" height="30" as="geometry" />
+          <mxGeometry x="1020" y="810" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TG3GYIjPsMoHIRxMnIuH-56" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TG3GYIjPsMoHIRxMnIuH-40" target="TG3GYIjPsMoHIRxMnIuH-53">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -172,8 +172,8 @@
             <mxPoint x="780" y="620" as="sourcePoint" />
             <mxPoint x="830" y="570" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1160" y="840" />
-              <mxPoint x="1160" y="240" />
+              <mxPoint x="1080" y="840" />
+              <mxPoint x="1080" y="240" />
               <mxPoint x="380" y="240" />
             </Array>
           </mxGeometry>
@@ -183,15 +183,15 @@
             <mxPoint x="780" y="620" as="sourcePoint" />
             <mxPoint x="830" y="570" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="990" y="1040" />
-              <mxPoint x="1160" y="1040" />
-              <mxPoint x="1160" y="240" />
+              <mxPoint x="920" y="1040" />
+              <mxPoint x="1080" y="1040" />
+              <mxPoint x="1080" y="240" />
               <mxPoint x="380" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TG3GYIjPsMoHIRxMnIuH-60" value="終了" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="690" y="660" width="140" height="60" as="geometry" />
+          <mxGeometry x="620" y="660" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TG3GYIjPsMoHIRxMnIuH-61" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TG3GYIjPsMoHIRxMnIuH-35" target="TG3GYIjPsMoHIRxMnIuH-60">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -203,7 +203,7 @@
           <mxGeometry x="310" y="28" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TG3GYIjPsMoHIRxMnIuH-65" value="⑤敵の行動&lt;div&gt;敵事の行動を&lt;/div&gt;&lt;div&gt;実行する&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="890" y="540" width="200" height="80" as="geometry" />
+          <mxGeometry x="820" y="540" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
