@@ -33,7 +33,7 @@
             <mxPoint x="270" y="330" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TG3GYIjPsMoHIRxMnIuH-3" value="&lt;b&gt;&lt;span style=&quot;color: rgb(255, 153, 51);&quot;&gt;山札&lt;/span&gt;&lt;/b&gt;生成" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="TG3GYIjPsMoHIRxMnIuH-3" value="⓪&lt;b&gt;&lt;span style=&quot;color: rgb(255, 153, 51);&quot;&gt;山札&lt;/span&gt;&lt;/b&gt;生成" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="280" y="130" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TG3GYIjPsMoHIRxMnIuH-4" value="&lt;div&gt;①ドロー&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;color: rgb(255, 153, 51);&quot;&gt;山札&lt;/span&gt;&lt;/b&gt;からランダムに3枚になる&lt;/div&gt;&lt;div&gt;まで引いて&lt;b&gt;&lt;span style=&quot;color: rgb(0, 127, 255);&quot;&gt;手札&lt;/span&gt;&lt;/b&gt;に含める&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
