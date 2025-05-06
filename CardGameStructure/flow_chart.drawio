@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="26.2.14">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1259" dy="1069" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1222" dy="1247" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -43,9 +43,9 @@
           <mxGeometry x="280" y="400" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TG3GYIjPsMoHIRxMnIuH-7" value="&lt;div&gt;カードによって異なる&lt;/div&gt;&lt;div&gt;分岐処理&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="660" width="200" height="80" as="geometry" />
+          <mxGeometry x="280" y="670" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TG3GYIjPsMoHIRxMnIuH-8" value="&lt;div&gt;③敵のアタック準備&lt;/div&gt;&lt;div&gt;「残りターン」を1減らす&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="TG3GYIjPsMoHIRxMnIuH-8" value="&lt;div&gt;③ターン消費&lt;/div&gt;&lt;div&gt;「残りターン」を1減らす&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="810" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TG3GYIjPsMoHIRxMnIuH-9" value="パスを選択していないか？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -102,7 +102,7 @@
           <mxGeometry x="480" y="540" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TG3GYIjPsMoHIRxMnIuH-24" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="620" width="60" height="30" as="geometry" />
+          <mxGeometry x="320" y="620" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TG3GYIjPsMoHIRxMnIuH-28" value="&lt;div&gt;「残りターン」が 0 か？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="660" y="400" width="200" height="100" as="geometry" />
@@ -110,11 +110,11 @@
         <mxCell id="TG3GYIjPsMoHIRxMnIuH-35" value="評価処理" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="660" y="540" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TG3GYIjPsMoHIRxMnIuH-40" value="&lt;div&gt;④トラッシュ&lt;/div&gt;&lt;div&gt;手札に残ったカードを全て&lt;/div&gt;&lt;div&gt;捨て札に送る&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="900" y="540" width="200" height="80" as="geometry" />
+        <mxCell id="TG3GYIjPsMoHIRxMnIuH-40" value="⑤トラッシュ&lt;div&gt;手札に残ったカードを全て&lt;/div&gt;&lt;div&gt;捨て札に送る&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="890" y="660" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TG3GYIjPsMoHIRxMnIuH-41" value="&lt;div&gt;⑤山札リセット&lt;/div&gt;&lt;div&gt;山札のカードを全て手札に送り、&lt;/div&gt;&lt;div&gt;捨て札を全て山札に送る&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="900" y="810" width="200" height="80" as="geometry" />
+        <mxCell id="TG3GYIjPsMoHIRxMnIuH-41" value="⑥山札リセット&lt;div&gt;山札のカードを全て手札に送り、&lt;/div&gt;&lt;div&gt;捨て札を全て山札に送る&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="890" y="930" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TG3GYIjPsMoHIRxMnIuH-43" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TG3GYIjPsMoHIRxMnIuH-8" target="TG3GYIjPsMoHIRxMnIuH-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -147,13 +147,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TG3GYIjPsMoHIRxMnIuH-53" value="山札が3枚より少ないか？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="900" y="670" width="200" height="100" as="geometry" />
+          <mxGeometry x="890" y="790" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="TG3GYIjPsMoHIRxMnIuH-54" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="930" y="770" width="60" height="30" as="geometry" />
+          <mxGeometry x="930" y="740" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TG3GYIjPsMoHIRxMnIuH-55" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1100" y="690" width="60" height="30" as="geometry" />
+          <mxGeometry x="1090" y="810" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TG3GYIjPsMoHIRxMnIuH-56" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TG3GYIjPsMoHIRxMnIuH-40" target="TG3GYIjPsMoHIRxMnIuH-53">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -172,7 +172,7 @@
             <mxPoint x="780" y="620" as="sourcePoint" />
             <mxPoint x="830" y="570" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1160" y="720" />
+              <mxPoint x="1160" y="840" />
               <mxPoint x="1160" y="240" />
               <mxPoint x="380" y="240" />
             </Array>
@@ -183,8 +183,8 @@
             <mxPoint x="780" y="620" as="sourcePoint" />
             <mxPoint x="830" y="570" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1000" y="920" />
-              <mxPoint x="1160" y="920" />
+              <mxPoint x="990" y="1040" />
+              <mxPoint x="1160" y="1040" />
               <mxPoint x="1160" y="240" />
               <mxPoint x="380" y="240" />
             </Array>
@@ -201,6 +201,9 @@
         </mxCell>
         <mxCell id="TG3GYIjPsMoHIRxMnIuH-62" value="スタート" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="28" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TG3GYIjPsMoHIRxMnIuH-64" value="&lt;div&gt;④アタック(敵)&lt;/div&gt;&lt;div&gt;敵の攻撃力分&lt;/div&gt;&lt;div&gt;プレイヤーのHPを減少させる&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="890" y="540" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
