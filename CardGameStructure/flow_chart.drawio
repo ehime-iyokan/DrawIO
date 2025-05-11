@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="26.2.14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1040" dy="1450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="956" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -39,7 +39,7 @@
         <mxCell id="TG3GYIjPsMoHIRxMnIuH-4" value="&lt;div&gt;①ドロー&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;color: rgb(255, 153, 51);&quot;&gt;山札&lt;/span&gt;&lt;/b&gt;からランダムに3枚になる&lt;/div&gt;&lt;div&gt;まで引いて&lt;b&gt;&lt;span style=&quot;color: rgb(0, 127, 255);&quot;&gt;手札&lt;/span&gt;&lt;/b&gt;に含める&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="280" y="280" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TG3GYIjPsMoHIRxMnIuH-5" value="&lt;div&gt;②プレイ&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;color: rgb(0, 127, 255);&quot;&gt;手札&lt;/span&gt;&lt;/b&gt;から1枚選択して場に出す&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="TG3GYIjPsMoHIRxMnIuH-5" value="&lt;div&gt;②プレイ&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;color: rgb(0, 127, 255);&quot;&gt;手札&lt;/span&gt;&lt;/b&gt;から1枚選択する&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;パス&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="280" y="400" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TG3GYIjPsMoHIRxMnIuH-7" value="&lt;div&gt;③プレイヤーの行動&lt;/div&gt;&lt;div&gt;選んだカードの行動を&lt;/div&gt;&lt;div&gt;実行する&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -204,7 +204,7 @@
         <mxCell id="42xgOx6s-QyIvUgZpXYZ-14" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="480" y="960" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="42xgOx6s-QyIvUgZpXYZ-17" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TG3GYIjPsMoHIRxMnIuH-65" edge="1" target="TG3GYIjPsMoHIRxMnIuH-40">
+        <mxCell id="42xgOx6s-QyIvUgZpXYZ-17" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TG3GYIjPsMoHIRxMnIuH-65" target="TG3GYIjPsMoHIRxMnIuH-40" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="900" y="900" as="sourcePoint" />
             <mxPoint x="890" y="660" as="targetPoint" />
