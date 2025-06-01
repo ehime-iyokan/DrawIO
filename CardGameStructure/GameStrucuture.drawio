@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0" version="27.0.3">
   <diagram name="ページ1" id="ZPgmJF8vVga--MkWZdOu">
-    <mxGraphModel dx="1665" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1959" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Czp6lD5ZuoxzQtUtrd-K-1" value="CardGameManager" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="40" y="170" width="940" height="820" as="geometry" />
+        <mxCell id="Czp6lD5ZuoxzQtUtrd-K-1" value="Presenter" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#E5CCFF;" parent="1" vertex="1">
+          <mxGeometry x="40" y="170" width="680" height="810" as="geometry" />
         </mxCell>
         <mxCell id="Czp6lD5ZuoxzQtUtrd-K-18" value="&lt;div&gt;CardData(Scriptable Object)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;現状は適当な値を設定しているが、インスペクター上でCardGameManagerに対して設定できるようにする予定。" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="414" y="600" width="260" height="120" as="geometry" />
@@ -16,13 +16,13 @@
         <mxCell id="Czp6lD5ZuoxzQtUtrd-K-23" value="ICards(インターフェース)&lt;br&gt;&lt;div&gt;必要な処理が定義されていることを保証している。&lt;/div&gt;&lt;div&gt;&lt;div&gt;CardsBaseで処理は定義されているため、基本的にCardBaseを継承していれば問題ない。&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="414" y="850" width="260" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Czp6lD5ZuoxzQtUtrd-K-37" value="BattleManager" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="700" y="215" width="260" height="55" as="geometry" />
+        <mxCell id="Czp6lD5ZuoxzQtUtrd-K-37" value="BattleManager" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#CCFFFF;" parent="1" vertex="1">
+          <mxGeometry x="414" y="230" width="260" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="Czp6lD5ZuoxzQtUtrd-K-40" value="" style="group" parent="1" vertex="1" connectable="0">
+        <mxCell id="Czp6lD5ZuoxzQtUtrd-K-40" value="" style="group;fillColor=#CCFFFF;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="60" y="590" width="270" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="Czp6lD5ZuoxzQtUtrd-K-5" value="CardManager" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="Czp6lD5ZuoxzQtUtrd-K-40" vertex="1">
+        <mxCell id="Czp6lD5ZuoxzQtUtrd-K-5" value="CardManager" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#CCFFFF;" parent="Czp6lD5ZuoxzQtUtrd-K-40" vertex="1">
           <mxGeometry width="270" height="380" as="geometry" />
         </mxCell>
         <mxCell id="Czp6lD5ZuoxzQtUtrd-K-8" value="&lt;div&gt;ICardProvider&lt;/div&gt;&lt;div&gt;カードの情報を提供する機能を提供する&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="Czp6lD5ZuoxzQtUtrd-K-40" vertex="1">
@@ -43,10 +43,10 @@
         <mxCell id="Czp6lD5ZuoxzQtUtrd-K-17" value="Field" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="Czp6lD5ZuoxzQtUtrd-K-40" vertex="1">
           <mxGeometry x="10" y="280" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Czp6lD5ZuoxzQtUtrd-K-41" value="" style="group" parent="1" vertex="1" connectable="0">
+        <mxCell id="Czp6lD5ZuoxzQtUtrd-K-41" value="" style="group;fillColor=#CCFFCC;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="100" y="230" width="270" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="Czp6lD5ZuoxzQtUtrd-K-4" value="StateMachine" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="Czp6lD5ZuoxzQtUtrd-K-41" vertex="1">
+        <mxCell id="Czp6lD5ZuoxzQtUtrd-K-4" value="StateMachine" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#FFFFCC;" parent="Czp6lD5ZuoxzQtUtrd-K-41" vertex="1">
           <mxGeometry width="270" height="190" as="geometry" />
         </mxCell>
         <mxCell id="Czp6lD5ZuoxzQtUtrd-K-6" value="各State" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="Czp6lD5ZuoxzQtUtrd-K-41" vertex="1">
@@ -100,10 +100,10 @@
             <mxPoint x="340" y="325" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Czp6lD5ZuoxzQtUtrd-K-49" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="700" y="280" width="260" height="300" as="geometry" />
+        <mxCell id="Czp6lD5ZuoxzQtUtrd-K-49" value="" style="group;fillColor=#FFCCCC;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="770" y="285" width="260" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="Czp6lD5ZuoxzQtUtrd-K-39" value="View" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="Czp6lD5ZuoxzQtUtrd-K-49" vertex="1">
+        <mxCell id="Czp6lD5ZuoxzQtUtrd-K-39" value="View" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#FFCCCC;" parent="Czp6lD5ZuoxzQtUtrd-K-49" vertex="1">
           <mxGeometry width="260" height="300" as="geometry" />
         </mxCell>
         <mxCell id="Czp6lD5ZuoxzQtUtrd-K-43" value="&lt;div&gt;Selector(1, 2, 3, Passのボタン)&lt;/div&gt;&lt;div&gt;押されたときの処理はStateMachine 側で実装する&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="Czp6lD5ZuoxzQtUtrd-K-49" vertex="1">
@@ -126,7 +126,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yIlV1XVanhR4geVr9BRl-5" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1.005;exitY=0.708;exitDx=0;exitDy=0;entryX=-0.023;entryY=0.406;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="Czp6lD5ZuoxzQtUtrd-K-6">
+        <mxCell id="yIlV1XVanhR4geVr9BRl-5" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1.005;exitY=0.708;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.015;entryY=0.573;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Czp6lD5ZuoxzQtUtrd-K-6" target="Czp6lD5ZuoxzQtUtrd-K-39">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="370" y="360" as="sourcePoint" />
             <mxPoint x="694" y="448" as="targetPoint" />
