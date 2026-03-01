@@ -322,8 +322,8 @@
         <mxCell id="GFfpgY36FjY5KbNLB-hu-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#737373;" value="&lt;div&gt;B1&lt;/div&gt;&lt;div&gt;OFF&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="30" x="140" y="1190.5" as="geometry" />
         </mxCell>
-        <mxCell id="GFfpgY36FjY5KbNLB-hu-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" value="&lt;div&gt;2ピクセル分以降は CLK ピンを ON→OFF しながら 1行分を送信し、&lt;/div&gt;&lt;div&gt;最後のデータが送信された後に Lat ピン を ON → OFF することで、1行分のデータを保存する。&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50.18" width="210" x="180" y="1222.6399999999999" as="geometry" />
+        <mxCell id="GFfpgY36FjY5KbNLB-hu-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;align=left;spacingRight=0;spacingLeft=0;spacingBottom=0;spacingTop=0;spacing=5;" value="&lt;div&gt;2 ピクセル分以降は CLK ピンを ON → OFF しながら&lt;/div&gt;&lt;div&gt;1行分を送信し、&lt;/div&gt;&lt;div&gt;最後のデータが送信された後に Lat ピン を&lt;/div&gt;&lt;div&gt;ON → OFF することで、1行分のデータを保存する。&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50.18" width="210" x="180" y="1222.64" as="geometry" />
         </mxCell>
         <mxCell id="GFfpgY36FjY5KbNLB-hu-13" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=none;" value="" vertex="1">
           <mxGeometry height="10" width="30" x="80" y="1173.5" as="geometry" />
