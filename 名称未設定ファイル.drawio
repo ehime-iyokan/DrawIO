@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0" version="29.6.0">
   <diagram name="ページ-1" id="bYEgHo7lMqAiOZxH_0uK">
-    <mxGraphModel dx="741" dy="457" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1423" dy="1265" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry height="80" width="320" x="80" y="1280" as="geometry" />
         </mxCell>
         <mxCell id="eZ1F3kHjvQ-xj8GzTXft-167" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#FFFF99;strokeColor=#d6b656;" value="&lt;div align=&quot;center&quot;&gt;LED マトリクス&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="430" width="410" x="90" y="427" as="geometry" />
+          <mxGeometry height="430" width="371" x="90" y="427" as="geometry" />
         </mxCell>
         <mxCell id="eZ1F3kHjvQ-xj8GzTXft-159" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" value="" vertex="1">
           <mxGeometry height="40" width="50" x="385" y="502" as="geometry" />
@@ -56,10 +56,10 @@
           <mxGeometry height="40" width="40" x="140" y="502" as="geometry" />
         </mxCell>
         <mxCell id="eZ1F3kHjvQ-xj8GzTXft-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;strokeColor=#6c8ebf;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;マイコンボード&lt;/div&gt;" vertex="1">
-          <mxGeometry height="81" width="410" x="90" y="892" as="geometry" />
+          <mxGeometry height="71" width="374" x="90" y="892" as="geometry" />
         </mxCell>
         <mxCell id="dBHi0PAgMJPlqXBbEoOy-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF99;strokeColor=#d6b656;" value="LEDマトリクス" vertex="1">
-          <mxGeometry height="109" width="277" x="99" y="33" as="geometry" />
+          <mxGeometry height="56" width="277" x="99" y="86" as="geometry" />
         </mxCell>
         <mxCell id="dBHi0PAgMJPlqXBbEoOy-6" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" target="dBHi0PAgMJPlqXBbEoOy-16" value="">
           <mxGeometry height="100" relative="1" width="100" as="geometry">
@@ -109,7 +109,7 @@
           <mxGeometry height="60" width="120" x="235" y="193" as="geometry" />
         </mxCell>
         <mxCell id="dBHi0PAgMJPlqXBbEoOy-17" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#99FF99;strokeColor=#82b366;" value="&lt;div&gt;電源&lt;/div&gt;&lt;div&gt;(モバイルバッテリー)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="283" x="92" y="308" as="geometry" />
+          <mxGeometry height="50" width="283" x="92" y="308" as="geometry" />
         </mxCell>
         <mxCell id="dBHi0PAgMJPlqXBbEoOy-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="&lt;div&gt;DC5V&lt;/div&gt;&lt;div&gt;コネクタ&lt;/div&gt;" vertex="1">
           <mxGeometry height="45.33" width="68" x="118" y="205" as="geometry" />
@@ -172,31 +172,31 @@
           <mxGeometry height="20" width="20" x="210" y="792" as="geometry" />
         </mxCell>
         <mxCell id="eZ1F3kHjvQ-xj8GzTXft-52" parent="1" style="whiteSpace=wrap;html=1;" value="D2" vertex="1">
-          <mxGeometry height="20" width="20" x="250" y="903" as="geometry" />
+          <mxGeometry height="20" width="20" x="233" y="904" as="geometry" />
         </mxCell>
         <mxCell id="eZ1F3kHjvQ-xj8GzTXft-53" parent="1" style="whiteSpace=wrap;html=1;" value="D3" vertex="1">
-          <mxGeometry height="20" width="20" x="290" y="903" as="geometry" />
+          <mxGeometry height="20" width="20" x="273" y="904" as="geometry" />
         </mxCell>
         <mxCell id="eZ1F3kHjvQ-xj8GzTXft-54" parent="1" style="whiteSpace=wrap;html=1;" value="D4" vertex="1">
-          <mxGeometry height="20" width="20" x="330" y="903" as="geometry" />
+          <mxGeometry height="20" width="20" x="313" y="904" as="geometry" />
         </mxCell>
         <mxCell id="eZ1F3kHjvQ-xj8GzTXft-55" parent="1" style="whiteSpace=wrap;html=1;" value="D5" vertex="1">
-          <mxGeometry height="20" width="20" x="370" y="903" as="geometry" />
+          <mxGeometry height="20" width="20" x="353" y="904" as="geometry" />
         </mxCell>
         <mxCell id="eZ1F3kHjvQ-xj8GzTXft-56" parent="1" style="whiteSpace=wrap;html=1;" value="D6" vertex="1">
-          <mxGeometry height="20" width="20" x="410" y="903" as="geometry" />
+          <mxGeometry height="20" width="20" x="393" y="904" as="geometry" />
         </mxCell>
         <mxCell id="eZ1F3kHjvQ-xj8GzTXft-50" parent="1" style="whiteSpace=wrap;html=1;" value="D1" vertex="1">
-          <mxGeometry height="20" width="20" x="210" y="903" as="geometry" />
+          <mxGeometry height="20" width="20" x="193" y="904" as="geometry" />
         </mxCell>
         <mxCell id="eZ1F3kHjvQ-xj8GzTXft-76" parent="1" style="whiteSpace=wrap;html=1;fontSize=9;" value="&lt;div&gt;GND&lt;/div&gt;" vertex="1">
-          <mxGeometry height="20" width="20" x="450" y="903" as="geometry" />
+          <mxGeometry height="20" width="20" x="433" y="904" as="geometry" />
         </mxCell>
         <mxCell id="eZ1F3kHjvQ-xj8GzTXft-77" parent="1" style="whiteSpace=wrap;html=1;fontSize=7;" value="&lt;div&gt;SPI&lt;/div&gt;&lt;div&gt;SCLK&lt;/div&gt;" vertex="1">
-          <mxGeometry height="20" width="20" x="170" y="903" as="geometry" />
+          <mxGeometry height="20" width="20" x="153" y="904" as="geometry" />
         </mxCell>
         <mxCell id="eZ1F3kHjvQ-xj8GzTXft-78" parent="1" style="whiteSpace=wrap;html=1;fontSize=7;" value="&lt;div&gt;SPI&lt;/div&gt;&lt;div&gt;MOSI&lt;/div&gt;" vertex="1">
-          <mxGeometry height="20" width="20" x="130" y="903" as="geometry" />
+          <mxGeometry height="20" width="20" x="113" y="904" as="geometry" />
         </mxCell>
         <mxCell id="eZ1F3kHjvQ-xj8GzTXft-80" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="G1" vertex="1">
           <mxGeometry height="20" width="20" x="405" y="512" as="geometry" />
@@ -251,7 +251,7 @@
             <Array as="points">
               <mxPoint x="110" y="522" />
               <mxPoint x="110" y="832" />
-              <mxPoint x="295" y="832" />
+              <mxPoint x="277" y="832" />
             </Array>
             <mxPoint x="150" y="542" as="sourcePoint" />
             <mxPoint x="430" y="872" as="targetPoint" />
@@ -280,7 +280,7 @@
         <mxCell id="eZ1F3kHjvQ-xj8GzTXft-146" edge="1" parent="1" source="eZ1F3kHjvQ-xj8GzTXft-109" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="eZ1F3kHjvQ-xj8GzTXft-42" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="295" y="742" />
+              <mxPoint x="277" y="742" />
             </Array>
             <mxPoint x="340" y="492" as="sourcePoint" />
             <mxPoint x="310" y="841" as="targetPoint" />
@@ -322,8 +322,8 @@
         <mxCell id="GFfpgY36FjY5KbNLB-hu-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#737373;" value="&lt;div&gt;B1&lt;/div&gt;&lt;div&gt;OFF&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="30" x="140" y="1190.5" as="geometry" />
         </mxCell>
-        <mxCell id="GFfpgY36FjY5KbNLB-hu-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;align=left;spacingRight=0;spacingLeft=0;spacingBottom=0;spacingTop=0;spacing=5;fillColor=none;strokeColor=none;" value="&lt;div&gt;2 ピクセル分以降は CLK ピンを ON → OFF しながら&lt;/div&gt;&lt;div&gt;1行分を送信し、&lt;/div&gt;&lt;div&gt;最後のデータが送信された後に Lat ピン を&lt;/div&gt;&lt;div&gt;ON → OFF することで、1行分のデータを保存する。&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50.18" width="210" x="180" y="1222.64" as="geometry" />
+        <mxCell id="GFfpgY36FjY5KbNLB-hu-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;align=left;spacingRight=0;spacingLeft=0;spacingBottom=0;spacingTop=0;spacing=5;fillColor=none;strokeColor=none;" value="&lt;div&gt;2 ピクセル分以降も CLK ピンを ON → OFF しつつ繰り返して、行内の最後のデータが送信された後に、&lt;/div&gt;&lt;div&gt;Lat ピン を ON → OFF することで、1行分のデータを保存する。&lt;/div&gt;" vertex="1">
+          <mxGeometry height="41.36" width="273" x="123" y="1228.64" as="geometry" />
         </mxCell>
         <mxCell id="GFfpgY36FjY5KbNLB-hu-13" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=none;" value="" vertex="1">
           <mxGeometry height="10" width="30" x="80" y="1173.5" as="geometry" />
@@ -451,8 +451,8 @@
         <mxCell id="z7ZzBG31a5Y7eBXuTi75-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" value="・・・" vertex="1">
           <mxGeometry height="20" width="50" x="40" y="1510" as="geometry" />
         </mxCell>
-        <mxCell id="z7ZzBG31a5Y7eBXuTi75-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;align=left;spacingRight=0;spacingLeft=0;spacingBottom=0;spacingTop=0;spacing=5;fillColor=none;strokeColor=none;" value="～ B2 までのピンも同時にデータを詰めていく。" vertex="1">
-          <mxGeometry height="20" width="190" x="65" y="1530" as="geometry" />
+        <mxCell id="z7ZzBG31a5Y7eBXuTi75-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingRight=0;spacingLeft=0;spacingBottom=0;spacingTop=0;spacing=5;fillColor=none;strokeColor=none;" value="その他、～ B2 までのピンも同時にデータを詰めていく。" vertex="1">
+          <mxGeometry height="20" width="285" x="65" y="1530" as="geometry" />
         </mxCell>
         <mxCell id="z7ZzBG31a5Y7eBXuTi75-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" value="・・・" vertex="1">
           <mxGeometry height="20" width="50" x="270" y="1440" as="geometry" />
@@ -588,8 +588,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="z7ZzBG31a5Y7eBXuTi75-68" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;align=left;spacingRight=0;spacingLeft=0;spacingBottom=0;spacingTop=0;spacing=5;fillColor=none;strokeColor=none;" value="&lt;div&gt;INPUT ピンと OUTPUT ピンを接続することで、&lt;/div&gt;シフトレジスタを連結し、データを入力する" vertex="1">
-          <mxGeometry height="30" width="200" x="80" y="1830" as="geometry" />
+        <mxCell id="z7ZzBG31a5Y7eBXuTi75-68" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;spacingRight=0;spacingLeft=0;spacingBottom=0;spacingTop=0;spacing=5;fillColor=none;strokeColor=none;" value="&lt;div&gt;INPUT ピンと OUTPUT ピンを接続することで、&lt;/div&gt;シフトレジスタを連結し、データを入力する。" vertex="1">
+          <mxGeometry height="30" width="241" x="80" y="1830" as="geometry" />
         </mxCell>
         <mxCell id="z7ZzBG31a5Y7eBXuTi75-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="" vertex="1">
           <mxGeometry height="60.5" width="210" x="80" y="1929.5" as="geometry" />
@@ -681,7 +681,7 @@
         <mxCell id="z7ZzBG31a5Y7eBXuTi75-111" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F84040;strokeColor=#b85450;" value="&lt;div&gt;R1&lt;/div&gt;&lt;div&gt;4&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="30" x="391" y="2039.5" as="geometry" />
         </mxCell>
-        <mxCell id="z7ZzBG31a5Y7eBXuTi75-112" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=left;spacing=5;fillColor=none;fontSize=10;" value="&lt;div&gt;Rは4回点灯するため、強い赤色。&lt;/div&gt;&lt;div&gt;Gは2回しか点灯しないため、弱い緑色。&lt;/div&gt;&lt;div&gt;Bは一度も点滅しない。&lt;/div&gt;&lt;div&gt;よって、オレンジ色の光となります&lt;/div&gt;" vertex="1">
+        <mxCell id="z7ZzBG31a5Y7eBXuTi75-112" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=left;spacing=5;fillColor=none;fontSize=10;" value="&lt;div&gt;Rは4回点灯するため、強い赤色。&lt;/div&gt;&lt;div&gt;Gは2回しか点灯しないため、弱い緑色。&lt;/div&gt;&lt;div&gt;Bは一度も点滅しない。&lt;/div&gt;&lt;div&gt;よって、オレンジ色の光となります。&lt;/div&gt;" vertex="1">
           <mxGeometry height="75" width="240" x="391" y="1954.5" as="geometry" />
         </mxCell>
         <mxCell id="z7ZzBG31a5Y7eBXuTi75-113" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" value="LEDマトリクス" vertex="1">
@@ -699,8 +699,8 @@
         <mxCell id="z7ZzBG31a5Y7eBXuTi75-118" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" value="バッファ" vertex="1">
           <mxGeometry height="20" width="70" x="220" y="2140.5" as="geometry" />
         </mxCell>
-        <mxCell id="z7ZzBG31a5Y7eBXuTi75-119" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=left;spacing=5;fillColor=none;fontSize=10;" value="&lt;div&gt;実際は8フレームありますが、&lt;/div&gt;&lt;div&gt;省略しています。&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="210" x="80" y="2210" as="geometry" />
+        <mxCell id="z7ZzBG31a5Y7eBXuTi75-119" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=left;spacing=5;fillColor=none;fontSize=10;" value="&lt;div&gt;実際は8フレームありますが、省略しています。&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="260" x="79" y="2198" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
