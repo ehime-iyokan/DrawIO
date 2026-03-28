@@ -1,9 +1,147 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" version="29.6.6">
   <diagram name="ページ-1" id="pcRvG8UiF85Js-PigtGx">
-    <mxGraphModel>
+    <mxGraphModel dx="1188" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ArhC3L2REm0ZI4ZU-tlE-1" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" value="顧客" vertex="1">
+          <mxGeometry height="30" width="100" x="70" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ArhC3L2REm0ZI4ZU-tlE-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="全体の概要図" vertex="1">
+          <mxGeometry height="30" width="130" x="10" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ArhC3L2REm0ZI4ZU-tlE-19" edge="1" parent="1" source="ArhC3L2REm0ZI4ZU-tlE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="ArhC3L2REm0ZI4ZU-tlE-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="500" />
+              <mxPoint x="120" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ArhC3L2REm0ZI4ZU-tlE-3" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" value="システム運用者" vertex="1">
+          <mxGeometry height="30" width="100" x="220" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="ArhC3L2REm0ZI4ZU-tlE-4" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" value="&lt;div&gt;公式LINE&lt;/div&gt;&lt;div&gt;アカウント&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="70" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="ArhC3L2REm0ZI4ZU-tlE-7" edge="1" parent="1" source="ArhC3L2REm0ZI4ZU-tlE-4" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="ArhC3L2REm0ZI4ZU-tlE-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="340" y="210" as="sourcePoint" />
+            <mxPoint x="390" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ArhC3L2REm0ZI4ZU-tlE-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="メッセージのやり取り" vertex="1">
+          <mxGeometry height="80" width="80" x="80" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ArhC3L2REm0ZI4ZU-tlE-12" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" value="Web アプリ(Google Cloud で運用)" vertex="1">
+          <mxGeometry height="40" width="130" x="55" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="ArhC3L2REm0ZI4ZU-tlE-13" edge="1" parent="1" source="ArhC3L2REm0ZI4ZU-tlE-12" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="ArhC3L2REm0ZI4ZU-tlE-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="120" y="370" as="sourcePoint" />
+            <mxPoint x="119.71000000000001" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ArhC3L2REm0ZI4ZU-tlE-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;div&gt;データ保存&lt;/div&gt;&lt;div&gt;メッセージ送信&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="90" x="75" y="299" as="geometry" />
+        </mxCell>
+        <mxCell id="ArhC3L2REm0ZI4ZU-tlE-17" edge="1" parent="1" source="ArhC3L2REm0ZI4ZU-tlE-3" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" target="ArhC3L2REm0ZI4ZU-tlE-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="280" />
+              <mxPoint x="120" y="280" />
+            </Array>
+            <mxPoint x="200" y="430" as="sourcePoint" />
+            <mxPoint x="200" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ArhC3L2REm0ZI4ZU-tlE-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="メッセージ送信" vertex="1">
+          <mxGeometry height="90" width="90" x="225" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="ArhC3L2REm0ZI4ZU-tlE-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;div&gt;メッセージ送信&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="90" x="225" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="ArhC3L2REm0ZI4ZU-tlE-54" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=87.42857142857143;endSize=12.714285714285714;width=58.857142857142854;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="250" y="810" as="sourcePoint" />
+            <mxPoint x="320" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ArhC3L2REm0ZI4ZU-tlE-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;機能1：顧客から通知したい地域の情報を取得し、地域ごとに通知をする&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="470" x="10" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="ArhC3L2REm0ZI4ZU-tlE-59" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="420" width="200" x="30" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="ArhC3L2REm0ZI4ZU-tlE-58" parent="ArhC3L2REm0ZI4ZU-tlE-59" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" value="&lt;div&gt;1. 顧客から、&lt;/div&gt;&lt;div&gt;通知地域の情報を取得する&lt;/div&gt;" vertex="1">
+          <mxGeometry height="420" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ArhC3L2REm0ZI4ZU-tlE-47" edge="1" parent="ArhC3L2REm0ZI4ZU-tlE-59" source="ArhC3L2REm0ZI4ZU-tlE-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ArhC3L2REm0ZI4ZU-tlE-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ArhC3L2REm0ZI4ZU-tlE-22" parent="ArhC3L2REm0ZI4ZU-tlE-59" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" value="顧客" vertex="1">
+          <mxGeometry height="30" width="100" x="45" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ArhC3L2REm0ZI4ZU-tlE-49" edge="1" parent="ArhC3L2REm0ZI4ZU-tlE-59" source="ArhC3L2REm0ZI4ZU-tlE-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ArhC3L2REm0ZI4ZU-tlE-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ArhC3L2REm0ZI4ZU-tlE-25" parent="ArhC3L2REm0ZI4ZU-tlE-59" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" value="&lt;div&gt;公式LINE&lt;/div&gt;&lt;div&gt;アカウント&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="45" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="ArhC3L2REm0ZI4ZU-tlE-27" parent="ArhC3L2REm0ZI4ZU-tlE-59" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;div&gt;通知が欲しい&lt;/div&gt;&lt;div&gt;地域を入力&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="55" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ArhC3L2REm0ZI4ZU-tlE-28" parent="ArhC3L2REm0ZI4ZU-tlE-59" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" value="Web アプリ(Google Cloud で運用)" vertex="1">
+          <mxGeometry height="40" width="130" x="30" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="ArhC3L2REm0ZI4ZU-tlE-30" parent="ArhC3L2REm0ZI4ZU-tlE-59" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;div&gt;データ保存&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="70" x="60" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ArhC3L2REm0ZI4ZU-tlE-61" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="510" width="190" x="340" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="ArhC3L2REm0ZI4ZU-tlE-57" parent="ArhC3L2REm0ZI4ZU-tlE-61" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" value="&lt;div&gt;2. システム管理者から、&lt;/div&gt;&lt;div&gt;地域を指定して通知する&lt;/div&gt;" vertex="1">
+          <mxGeometry height="510" width="190" as="geometry" />
+        </mxCell>
+        <mxCell id="ArhC3L2REm0ZI4ZU-tlE-38" parent="ArhC3L2REm0ZI4ZU-tlE-61" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" value="顧客" vertex="1">
+          <mxGeometry height="30" width="100" x="44" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ArhC3L2REm0ZI4ZU-tlE-39" edge="1" parent="ArhC3L2REm0ZI4ZU-tlE-61" source="ArhC3L2REm0ZI4ZU-tlE-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="ArhC3L2REm0ZI4ZU-tlE-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ArhC3L2REm0ZI4ZU-tlE-40" parent="ArhC3L2REm0ZI4ZU-tlE-61" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" value="システム運用者" vertex="1">
+          <mxGeometry height="30" width="100" x="44" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="ArhC3L2REm0ZI4ZU-tlE-52" edge="1" parent="ArhC3L2REm0ZI4ZU-tlE-61" source="ArhC3L2REm0ZI4ZU-tlE-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="ArhC3L2REm0ZI4ZU-tlE-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ArhC3L2REm0ZI4ZU-tlE-41" parent="ArhC3L2REm0ZI4ZU-tlE-61" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" value="&lt;div&gt;公式LINE&lt;/div&gt;&lt;div&gt;アカウント&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="44" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="ArhC3L2REm0ZI4ZU-tlE-43" parent="ArhC3L2REm0ZI4ZU-tlE-61" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;div&gt;メッセージ&lt;/div&gt;&lt;div&gt;送信&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="70" x="59" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ArhC3L2REm0ZI4ZU-tlE-51" edge="1" parent="ArhC3L2REm0ZI4ZU-tlE-61" source="ArhC3L2REm0ZI4ZU-tlE-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="ArhC3L2REm0ZI4ZU-tlE-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ArhC3L2REm0ZI4ZU-tlE-44" parent="ArhC3L2REm0ZI4ZU-tlE-61" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" value="Web アプリ(Google Cloud で運用)" vertex="1">
+          <mxGeometry height="40" width="130" x="29" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="ArhC3L2REm0ZI4ZU-tlE-50" parent="ArhC3L2REm0ZI4ZU-tlE-61" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="地域を指定して通知" vertex="1">
+          <mxGeometry height="70" width="70" x="59" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="ArhC3L2REm0ZI4ZU-tlE-53" parent="ArhC3L2REm0ZI4ZU-tlE-61" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;div&gt;メッセージ&lt;/div&gt;&lt;div&gt;送信&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="70" x="59" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="ArhC3L2REm0ZI4ZU-tlE-62" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;機能2：顧客とのやり取りを自動化したい&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="470" x="30" y="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="ArhC3L2REm0ZI4ZU-tlE-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="&lt;div align=&quot;left&quot;&gt;顧客とのやり取りの内、いつも同じやり取りをする場合は自動化できそう。&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;以下、例&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;購入場所の指定：&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;自動返信として以下のメッセージを送信する。&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;「承知したという旨を返す。時間等の詳細は改めてお伝えいたします。(本メッセージは自動送信となっております)」&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;販売者の位置情報&lt;/div&gt;&lt;div&gt;自動返信として以下のメッセージを送信する。&lt;/div&gt;&lt;div&gt;「位置情報を送信いたしますので、しばらくお待ちください。(本メッセージは自動送信となっております)」&lt;/div&gt;&lt;div&gt;Google map 等で位置情報のリンクを送信する？&lt;/div&gt;" vertex="1">
+          <mxGeometry height="241" width="460" x="30" y="1169" as="geometry" />
+        </mxCell>
+        <mxCell id="ArhC3L2REm0ZI4ZU-tlE-65" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;または LIFF を使う？&lt;/div&gt;&lt;div&gt;https://saichat.jp/line/liff/&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="370" y="10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
